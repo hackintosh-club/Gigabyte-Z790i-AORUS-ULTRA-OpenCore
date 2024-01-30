@@ -61,7 +61,7 @@ Boot
 
 ### ScreenShot
 
-![image](ScreenShot/sonoma.jpg)
+![image](ScreenShot/Sonoma.jpg)
 
 ### Contact Us 
 

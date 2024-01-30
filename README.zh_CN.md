@@ -62,7 +62,7 @@ Boot
 
 ### 系统截图
 
-![image](ScreenShot/sonoma.jpg)
+![image](ScreenShot/Sonoma.jpg)
 
 
 
