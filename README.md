@@ -59,7 +59,9 @@ Boot
  - Intel AX211 WiFi driver ([AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases) in this EFI is only applicable to MacOS 14 Sonoma. Please download and replace this driver yourself when installing other MacOS versions
  - Intel AX211 Not Supported  Airdrop
 
+### ScreenShot
 
+![image](ScreenShot/sonoma.jpg)
 
 ### Contact Us 
 

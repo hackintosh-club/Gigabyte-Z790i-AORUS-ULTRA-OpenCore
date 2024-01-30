@@ -60,6 +60,10 @@ Boot
  - 此EFI中的英特尔无线网卡驱动[AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases)仅适用于 MacOS 14 Sonoma,安装其它版本请自行下载替换此驱动
  - 英特尔无线网卡无法使用隔空投送等功能
 
+### 系统截图
+
+![image](ScreenShot/sonoma.jpg)
+
 
 
 ### 联系我们
